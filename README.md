@@ -28,6 +28,3 @@ A custom object relational mapping (ORM) framework, written in Java, which allow
 List of features ready and TODOs for future development
 * Provide developers a programmatic configuration of entities.
 * Programmatic persistence of entities.
-* Generated custom annotations for models.
-
-
